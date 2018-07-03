@@ -1,0 +1,30 @@
+
+
+#hero {
+     background-color: #000;
+    background-image: url(../assets/img/bondblack.jpg);
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+    align-content: stretch;
+    display: flex;
+    padding-bottom: 0px;
+}
+
+.navbar-header {
+    margin: 0;
+    padding: 0;
+    height: 25px;
+}
+
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.navigation {
+    color: #000;
+}
+
